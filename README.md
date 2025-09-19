@@ -97,6 +97,12 @@ To help students and researchers quickly find and study recent top papers in the
 
 ## International Conference on Machine Learning (ICML)
 
+[2025](https://icml.cc/virtual/2025/awards_detail), [2024](https://icml.cc/virtual/2024/awards_detail), [2023](https://icml.cc/virtual/2023/awards_detail), [2022](https://icml.cc/virtual/2022/awards_detail), [2021](https://icml.cc/virtual/2021/awards_detail), [2020](https://icml.cc/virtual/2020/awards_detail)
+
+### Outstanding Paper
+
+### Outstanding Position Paper
+
 ## AAAI Conference on Artificial Intelligence (AAAI)
 
 ## International Conference on Learning Representations (ICLR)
