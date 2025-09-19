@@ -73,11 +73,27 @@ To help students and researchers quickly find and study recent top papers in the
 
 (2024) [Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators](https://proceedings.neurips.cc/paper_files/paper/2024/file/dd2eb5250696753ea37141bbd89bb569-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi   **Affiliations**: National University of Singapore, Sea AI Lab
 
+### Outstanding Paper
+
+(2023) [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models]()
+
+(2023) [Privacy Auditing with One (1) Training Run]()
+
+(2023) [Are Emergent Abilities of Large Language Models a Mirage?]
+
+(2023) [ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation]
+
 ### Best Paper Runner-up
 
 (2024) [Not All Tokens Are What You Need for Pretraining](https://proceedings.neurips.cc/paper_files/paper/2024/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf), [Code](https://github.com/microsoft/rho), **Authors**: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi   **Affiliations**: Xiamen University, Tsinghua University, Shanghai AI Laboratory, Microsoft
 
 (2024) [Guiding a Diffusion Model with a Bad Version of Itself](https://proceedings.neurips.cc/paper_files/paper/2024/file/5ee7ed60a7e8169012224dec5fe0d27f-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine   **Affiliations**: NVIDIA, Aalto University
+
+### Outstanding Paper Runner-up
+
+(2023) [Scaling Data-Constrained Language Models]
+
+(2023) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model]
 
 ## International Conference on Machine Learning (ICML)
 
