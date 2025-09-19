@@ -1,7 +1,7 @@
 # Best Paper Awards in Top Conferences of Artificial Intelligence
 
 ## Conference on Computer Vision and Pattern Recognition (CVPR)
-[2025](https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos), [2024]
+[2025](https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos), [2024](https://cvpr.thecvf.com/Conferences/2024/News/Awards), [2023](https://cvpr.thecvf.com/Conferences/2023/BestPaperAwards), [2022](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards), [2021](https://cvpr2021.thecvf.com/node/329), [2020](https://cvpr2020.thecvf.com/node/817)
 
 ### Best Paper
 (2025) [VGGT: Visual Geometry Grounded Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf), [Code](https://github.com/facebookresearch/vggt), [Supplementary](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Wang_VGGT_Visual_Geometry_CVPR_2025_supplemental.pdf) **Authors**: Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny. **Affiliations**: University of Oxford, Meta AI
@@ -41,3 +41,4 @@
 
 # Refrences
 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+[CVPR Best Paper Award](https://tc.computer.org/tcpami/2022/08/22/cvpr-best-paper-award/)
