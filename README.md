@@ -8,7 +8,7 @@
 ### Best Paper Honorable Mention
 (2025) [MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_MegaSaM_Accurate_Fast_and_Robust_Structure_and_Motion_from_Casual_CVPR_2025_paper.pdf), [Code](https://github.com/mega-sam/mega-sam), [Supplementary](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Li_MegaSaM_Accurate_Fast_CVPR_2025_supplemental.pdf) **Authors**: Zhengqi Li, Richard Tucker, Forrester Cole, Qianqian Wang, Linyi Jin, Vickie Ye, Angjoo Kanazawa, Aleksander Holynski, Noah Snavely. **Affiliations**: Google DeepMind, UC Berkeley, University of Michigan
 
-(2025) [Navigation World Models](), [Code](), Authors: Authors: Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun. Affiliations: 
+(2025) [Navigation World Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Bar_Navigation_World_Models_CVPR_2025_paper.pdf), [Code](https://github.com/facebookresearch/nwm), [Supplementary](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Bar_Navigation_World_Models_CVPR_2025_supplemental.pdf) Authors: Authors: Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun. Affiliations: FAIR at Meta, New York University, Berkeley AI Research
 
 ## International Conference on Computer Vision (ICCV)
 
