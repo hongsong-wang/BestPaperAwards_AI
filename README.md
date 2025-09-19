@@ -77,7 +77,7 @@ To help students and researchers quickly find and study recent top papers in the
 
 (2024) [Not All Tokens Are What You Need for Pretraining](https://proceedings.neurips.cc/paper_files/paper/2024/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf), [Code](https://github.com/microsoft/rho), **Authors**: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi   **Affiliations**: Xiamen University, Tsinghua University, Shanghai AI Laboratory, Microsoft
 
-(2024) [Guiding a Diffusion Model with a Bad Version of Itself](https://proceedings.neurips.cc/paper_files/paper/2024/file/5ee7ed60a7e8169012224dec5fe0d27f-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine   **Affiliations**: National University of Singapore, Sea AI Lab
+(2024) [Guiding a Diffusion Model with a Bad Version of Itself](https://proceedings.neurips.cc/paper_files/paper/2024/file/5ee7ed60a7e8169012224dec5fe0d27f-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine   **Affiliations**: NVIDIA, Aalto University
 
 ## International Conference on Machine Learning (ICML)
 
