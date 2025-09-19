@@ -2,7 +2,7 @@
 
 To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, I collected the award-winning papers from top conferences since 2020 and created this repository.
 
-- [CVPR](## Conference on Computer Vision and Pattern Recognition (CVPR))
+- [CVPR](#conference-on-computer-vision-and-pattern-recognition-cvpr)
 
 
 ## Conference on Computer Vision and Pattern Recognition (CVPR)
