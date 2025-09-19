@@ -66,6 +66,18 @@ To help students and researchers quickly find and study recent top papers in the
 (2020) [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](), **Authors**: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
 
 ## Conference on Neural Information Processing Systems (NeurIPS)
+[2024](https://neurips.cc/virtual/2024/awards_detail), [2023](https://neurips.cc/virtual/2023/awards_detail), [2022](https://neurips.cc/virtual/2022/awards_detail), [2021](https://neurips.cc/virtual/2021/awards_detail), [2020](https://neurips.cc/virtual/2020/awards_detail)
+
+### Best Paper
+(2024) [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://proceedings.neurips.cc/paper_files/paper/2024/file/9a24e284b187f662681440ba15c416fb-Paper-Conference.pdf), [Code](https://github.com/FoundationVision/VAR), **Authors**: Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang   **Affiliations**: Peking University, Bytedance Inc
+
+(2024) [Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators](https://proceedings.neurips.cc/paper_files/paper/2024/file/dd2eb5250696753ea37141bbd89bb569-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi   **Affiliations**: National University of Singapore, Sea AI Lab
+
+### Best Paper Runner-up
+
+(2024) [Not All Tokens Are What You Need for Pretraining](https://proceedings.neurips.cc/paper_files/paper/2024/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf), [Code](https://github.com/microsoft/rho), **Authors**: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi   **Affiliations**: Xiamen University, Tsinghua University, Shanghai AI Laboratory, Microsoft
+
+(2024) [Guiding a Diffusion Model with a Bad Version of Itself](https://proceedings.neurips.cc/paper_files/paper/2024/file/5ee7ed60a7e8169012224dec5fe0d27f-Paper-Conference.pdf), [Code](https://github.com/sail-sg/stde), **Authors**: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine   **Affiliations**: National University of Singapore, Sea AI Lab
 
 ## International Conference on Machine Learning (ICML)
 
