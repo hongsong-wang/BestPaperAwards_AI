@@ -23,7 +23,45 @@
 
 ## International Conference on Computer Vision (ICCV)
 
+### Best Paper (Marr Prize)
+(2023) [Passive Ultra-Wideband Single-Photon Imaging](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+### Best Student Paper
+(2023) [Tracking Everything Everywhere All at Once](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [Pixel-Perfect Structure-from-Motion with Featuremetric Refinement](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+### Best Paper Honorable Mention Award
+(2023) [Segment Anything](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [OpenGAN: Open-Set Recognition via Open Data Generation](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [Viewing Graph Solvability via Cycle Consistency](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
+(2021) [Common Objects in 3D: LargeScale Learning and Evaluation of Real-life 3D Category Reconstruction](), [Code](), [Supplementary]()  **Authors**:  **Affiliations**: 
+
 ## European Conference on Computer Vision (ECCV)
+[2024](https://eccv.ecva.net/virtual/2024/awards_detail), [2022](https://eccv2022.ecva.net/files/2022/10/ECCV22-Awards.pdf), [2020](https://eccv2020.eu/awards/)
+
+### Best Paper
+
+(2022) [On the Versatile Uses of Partial Distance Correlation in Deep Learning](), **Authors**: Xingjian Zhen, Zihang Meng, Rudrasis Chakraborty, Vikas Singh
+
+(2020) [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](), **Authors**: Zachary Teed, Jia Deng
+
+### Best Paper Honorable Mention
+
+(2022) [Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields](), **Authors**: Garvita Tiwari, Dimitrije Antic, Jan E. Lenssen,  Nikolaos Sarafianos, Tony Tung, Gerard Pons-Moll
+
+(2022) [A Level Set Theory for Neural Implicit Evolution under Explicit Flows}(), **Authors**: Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi
+
+(2020) [Towards Streaming Perception](), **Authors**: Mengtian Li, Yu-Xiong Wang, Deva Ramanan, 
+
+(2020) [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](), **Authors**: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
 
 ## Conference on Neural Information Processing Systems (NeurIPS)
 
