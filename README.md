@@ -75,13 +75,13 @@ To help students and researchers quickly find and study recent top papers in the
 
 ### Outstanding Paper
 
-(2023) [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models]()
+(2023) [Privacy Auditing with One (1) Training Run](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a6f6e0d6781d1cb8689192408946d73-Paper-Conference.pdf), **Authors**: Thomas Steinke, Milad Nasr, Matthew Jagielski  **Affiliations**: Google DeepMind
 
-(2023) [Privacy Auditing with One (1) Training Run]()
+(2023) [Are Emergent Abilities of Large Language Models a Mirage?](https://proceedings.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf), **Authors**: Rylan Schaeffer, Brando Miranda, Sanmi Koyejo  **Affiliations**: Stanford University
 
-(2023) [Are Emergent Abilities of Large Language Models a Mirage?]
+(2023) [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://openreview.net/pdf?id=kaHpo8OZw2), **Authors**: Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li
 
-(2023) [ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation]
+(2023) [ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation](https://proceedings.neurips.cc/paper_files/paper/2023/file/45fbcc01349292f5e059a0b8b02c8c3f-Paper-Datasets_and_Benchmarks.pdf), **Authors**: Sungduk Yu, Walter Hannah, Liran Peng, Jerry Lin, Mohamed Aziz Bhouri, Ritwik Gupta, Björn Lütjens, Justus C. Will, Gunnar Behrens, Julius Busecke, Nora Loose, Charles Stern, Tom Beucler, Bryce Harrop, Benjamin Hillman, Andrea Jenney, Savannah L. Ferretti, Nana Liu, Animashree Anandkumar, Noah Brenowitz, Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak, Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey, Fiaz Ahmed, David Bader, Pierre Baldi, Elizabeth Barnes, Christopher Bretherton, Peter Caldwell, Wayne Chuang, Yilun Han, YU HUANG, Fernando Iglesias-Suarez, Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David Randall, Sara Shamekh, Mark Taylor, Nathan Urban, Janni Yuval, Guang Zhang, Mike Pritchard
 
 ### Best Paper Runner-up
 
@@ -91,9 +91,9 @@ To help students and researchers quickly find and study recent top papers in the
 
 ### Outstanding Paper Runner-up
 
-(2023) [Scaling Data-Constrained Language Models]
+(2023) [Scaling Data-Constrained Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/9d89448b63ce1e2e8dc7af72c984c196-Paper-Conference.pdf), **Authors**: Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, Nouamane Tazi, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin A Raffel  **Affiliations**: Hugging Face, Harvard University, University of Turku
 
-(2023) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model]
+(2023) [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://proceedings.neurips.cc/paper_files/paper/2023/file/a85b405ed65c6477a4fe8302b5e06ce7-Paper-Conference.pdf), **Authors**: Rafael Rafailov, Archit Sharma, Eric Mitchell, Christopher D Manning, Stefano Ermon, Chelsea Finn  **Affiliations**: Stanford University, CZ Biohub
 
 ## International Conference on Machine Learning (ICML)
 
