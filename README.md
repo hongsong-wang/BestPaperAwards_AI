@@ -17,6 +17,11 @@ To help students and researchers quickly find and study recent top papers in the
 ### Best Paper
 (2025) [VGGT: Visual Geometry Grounded Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf), [Code](https://github.com/facebookresearch/vggt), [Supplementary](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Wang_VGGT_Visual_Geometry_CVPR_2025_supplemental.pdf) **Authors**: Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny. **Affiliations**: University of Oxford, Meta AI
 
+(2024) [Generative Image Dynamics]
+(https://generative-dynamics.github.io/),[Code]
+(https://generative-dynamics.github.io/static/pdfs/GenerativeImageDynamics.pdf), [Supplementary]
+**Authors**: Zhengqi Li, Richard Tucker, Noah Snavely, Aleksander Holynski. **Affiliations**: Google Research, Cornell University
+
 ### Best Student Paper
 (2025) [VGGT: Visual Geometry Grounded Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf), [Code](https://github.com/facebookresearch/vggt), [Supplementary](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Wang_VGGT_Visual_Geometry_CVPR_2025_supplemental.pdf) **Authors**: Anagh Malik, Benjamin Attal, Andrew Xie, Matthew O'Toole, David B. Lindell. **Affiliations**: Visual Geometry Group, University of Oxford, Meta AI
 
