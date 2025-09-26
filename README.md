@@ -1,6 +1,6 @@
 # Best Paper Awards in Top Conferences of Artificial Intelligence
 
-To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, I collected the award-winning papers from top conferences since 2020 and created this repository.
+To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences since 2020 and created this repository.
 
 ## Table of Contents
 - [CVPR Best Papers](#conference-on-computer-vision-and-pattern-recognition-cvpr)
