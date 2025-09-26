@@ -1,6 +1,8 @@
 # Best Paper Awards in Top Conferences of Artificial Intelligence
 
-To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences since 2020 and created this repository.
+To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences and created this repository. Please also star this repository https://github.com/hongsong-wang/BestPaperAwards_AI if it helps you!
+
+We have also made the website is [CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal). Please also star this repository https://github.com/hongsong-wang/CV_Paper_Portal if it helps you!
 
 ## Table of Contents
 - [CVPR Best Papers](#conference-on-computer-vision-and-pattern-recognition-cvpr)
