@@ -133,11 +133,17 @@ via Explanation Methods](https://openaccess.thecvf.com/content/CVPR2024/papers/J
 
 ### Best Paper
 
+(2024) [Minimalist Vision with Freeform Pixels](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08113.pdf), [Code](https://github.com/ColumbiaComputerVision/mincam), [Supplementary](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08113-supp.pdf), **Authors**: Jeremy Klotz, Shree Nayar. **Affiliations**: Columbia University, New York NY, USA
+
 (2022) [On the Versatile Uses of Partial Distance Correlation in Deep Learning](), **Authors**: Xingjian Zhen, Zihang Meng, Rudrasis Chakraborty, Vikas Singh
 
 (2020) [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](), **Authors**: Zachary Teed, Jia Deng
 
 ### Best Paper Honorable Mention
+
+(2024) [Rasterized Edge Gradients: Handling Discontinuities Differentially](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11059.pdf), [Code](https://github.com/facebookresearch/DRTK), [Supplementary](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11059-supp.pdf), **Authors**: Stanislav Pidhorskyi, Tomas Simon, Gabriel Schwartz, He Wen, Yaser Sheikh, Jason Saragih. **Affiliations**: Reality Labs, Meta, Pittsburgh, Pennsylvania, USA
+
+(2024) [Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12206.pdf), [Supplementary](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12206-supp.pdf), **Authors**: Vitali Petsiuk, Kate Saenko. **Affiliations**: Boston University, Boston, USA
 
 (2022) [Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields](), **Authors**: Garvita Tiwari, Dimitrije Antic, Jan E. Lenssen,  Nikolaos Sarafianos, Tony Tung, Gerard Pons-Moll
 
@@ -146,6 +152,14 @@ via Explanation Methods](https://openaccess.thecvf.com/content/CVPR2024/papers/J
 (2020) [Towards Streaming Perception](), **Authors**: Mengtian Li, Yu-Xiong Wang, Deva Ramanan, 
 
 (2020) [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](), **Authors**: Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
+
+### Award Candidate
+
+(2024) [Sapiens: Foundation for Human Vision Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00529.pdf), [Code](https://github.com/facebookresearch/sapiens), [Supplementary](https://arxiv.org/abs/2408.12569), **Authors**: Rawal Khirodkar, Timur Bagautdinov, Julieta Martinez, Zhaoen Su, Austin T James, Peter Selednik, Stuart Anderson, Shunsuke Saito. **Affiliations**: Codec Avatars Lab, Meta
+
+(2024) [Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04704.pdf), [Code](https://github.com/BICLab/SpikeYOLO), [Supplementary](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04704-supp.pdf), **Authors**: Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li. **Affiliations**: Institute of Automation, Chinese Academy of Sciences, Xi’an Jiaotong University
+
+(2024) [LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01383.pdf), [Code](https://github.com/BolinLai/LEGO), [Supplementary](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01383-supp.pdf), **Authors**:Bolin Lai, Xiaoliang Dai, Lawrence Chen, Guan Pang, James M Rehg, Miao Liu. **Affiliations**: GenAI, Meta, Georgia Institute of Technology, University of Illinois Urbana-Champaign
 
 ## Conference on Neural Information Processing Systems (NeurIPS)
 [2024](https://neurips.cc/virtual/2024/awards_detail), [2023](https://neurips.cc/virtual/2023/awards_detail), [2022](https://neurips.cc/virtual/2022/awards_detail), [2021](https://neurips.cc/virtual/2021/awards_detail), [2020](https://neurips.cc/virtual/2020/awards_detail)
