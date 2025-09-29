@@ -2,8 +2,6 @@
 
 To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences and created this repository. Please also star this repository https://github.com/hongsong-wang/BestPaperAwards_AI if it helps you!
 
-We have also made the website of [CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal). Please also star https://github.com/hongsong-wang/CV_Paper_Portal if it helps you!
-
 We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/) and [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) and [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) if they help you! 
 
 ## Table of Contents
