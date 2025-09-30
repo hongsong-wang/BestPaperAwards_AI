@@ -222,7 +222,7 @@ via Explanation Methods](https://openaccess.thecvf.com/content/CVPR2024/papers/J
 
 若该文档对您有所帮助，请在页面右上角点个Star⭐支持一下，谢谢！
 
-如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/BestPaperAwards_AI。
+如果转载该文档的内容，请注明出处：https://github.com/hongsong-wang/BestPaperAwards_AI
 
 <div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
 <code>
