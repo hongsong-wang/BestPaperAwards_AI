@@ -202,14 +202,19 @@ via Explanation Methods](https://openaccess.thecvf.com/content/CVPR2024/papers/J
 ### Outstanding Position Paper
 
 ## AAAI Conference on Artificial Intelligence (AAAI)
+[1994–Present](https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/)
 
 ## International Conference on Learning Representations (ICLR)
+[2025](https://media.iclr.cc/Conferences/ICLR2025/ICLR2025_Outstanding_Paper_Awards.pdf), [2024](https://blog.iclr.cc/2024/05/06/iclr-2024-outstanding-paper-awards/), [2023](https://iclr.cc/virtual/2023/awards_detail), [2022](https://iclr.cc/virtual/2022/awards_detail), [2021](https://iclr.cc/media/Press/ICLR_2021_Fact_Sheet.pdf)
 
 ## ACM Multimedia
+[2024](https://2024.acmmm.org/awards)
 
 ## SIGGRAPH
+[2025](https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/), [2024](https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/), [2023](https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/)
 
 ## SIGGRAPH Asia
+[2024](https://asia.siggraph.org/2024/for-the-press/press-releases/siggraph-asia-2024-award-winners/index.html)
 
 # Refrences
 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
