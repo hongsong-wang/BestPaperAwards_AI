@@ -12,6 +12,8 @@ We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Port
 - [ICML Best Papers](#international-conference-on-machine-learning-icml)
 - [ICLR Best Papers](#international-conference-on-learning-representations-iclr)
 - [AAAI Best Papers](#aaai-conference-on-artificial-intelligence-aaai)
+- [ACMMM Best Papers](#acm-multimedia)
+- [SIGGRAPH Best Papers](#siggraph)
 
 ## Conference on Computer Vision and Pattern Recognition (CVPR)
 [2025](https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos), [2024](https://cvpr.thecvf.com/Conferences/2024/News/Awards), [2023](https://cvpr.thecvf.com/Conferences/2023/BestPaperAwards), [2022](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards), [2021](https://cvpr2021.thecvf.com/node/329), [2020](https://cvpr2020.thecvf.com/node/817)
