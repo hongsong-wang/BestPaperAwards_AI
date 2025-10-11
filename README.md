@@ -1,8 +1,8 @@
 # Best Paper Awards in Top Conferences of Artificial Intelligence
 
-To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences and created this repository. Please also star this repository https://github.com/hongsong-wang/BestPaperAwards_AI if it helps you!
+To help students and researchers quickly find and study recent top papers in the field of artificial intelligence, we collected the award-winning papers from top conferences and created this repository. 
 
-We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/) and [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal) and [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) if they help you! 
+We also maintain [CV_Paper_Portal](https://hongsong-wang.github.io/CV_Paper_Portal/), [AI_arXiv_Portal](https://hongsong-wang.github.io/AI_arXiv_Portal/) and [CS_arXiv_Paper](https://hongsong-wang.github.io/CS_arXiv_Paper). Please also star these repositories [https://github.com/hongsong-wang/CV_Paper_Portal](https://github.com/hongsong-wang/CV_Paper_Portal), [https://github.com/hongsong-wang/AI_arXiv_Portal](https://github.com/hongsong-wang/AI_arXiv_Portal) and [https://github.com/hongsong-wang/CS_arXiv_Paper}(https://github.com/hongsong-wang/CS_arXiv_Paper) if they help you! 
 
 ## Table of Contents
 - [CVPR Best Papers](#conference-on-computer-vision-and-pattern-recognition-cvpr)
